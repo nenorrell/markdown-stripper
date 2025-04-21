@@ -1,0 +1,33 @@
+{
+  "name": "markdown-stripper",
+  "version": "1.0.0",
+  "description": "A simple markdown stripper for TypeScript that removes markdown syntax from text.",
+  "scripts": {
+    "test": "jest",
+    "build": "tsup src/index.ts --dts --format esm,cjs",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "markdown",
+    "stripper",
+    "typescript",
+    "npm",
+    "package",
+    "esm"
+  ],
+  "author": "royalewcheese",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.14.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.2",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}

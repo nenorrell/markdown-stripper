@@ -3,6 +3,11 @@
 [![npm version](https://img.shields.io/npm/v/markdown-stripper.svg)](https://www.npmjs.com/package/markdown-stripper) 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/nenorrell/markdown-stripper/pipeline.yml?branch=main)](https://github.com/nenorrell/markdown-stripper/actions/workflows/pipeline.yml?query=branch%3Amain) 
 
+<p align="center">
+  <img src="https://github.com/nenorrell/markdown-stripper/blob/main/logo.png?raw=true" alt="Logo" width="200"/>
+</p>
+
+
 A lightweight, zero‑dependency **TypeScript** utility to strip Markdown formatting from a string. Fully typed and customizable.
 
 ---

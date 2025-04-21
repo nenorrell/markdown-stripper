@@ -1,6 +1,6 @@
 {
   "name": "markdown-stripper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple markdown stripper for TypeScript that removes markdown syntax from text.",
   "scripts": {
     "test": "jest",
